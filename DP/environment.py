@@ -1,7 +1,6 @@
 from enum import Enum
 import numpy as np
 
-
 class State():
 
     def __init__(self, row=-1, column=-1):
